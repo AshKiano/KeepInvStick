@@ -1,0 +1,9 @@
+name: KeepInvStick
+version: '${project.version}'
+main: com.ashkiano.keepinvstick.KeepInvStick
+api-version: '1.16'
+author: AshKiano
+commands:
+  givekeepinvstick:
+    description: Gives a special one-time use item.
+    usage: /<command>
