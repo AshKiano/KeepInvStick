@@ -27,6 +27,8 @@ public class KeepInvStick extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
+        Metrics metrics = new Metrics(this, 20870);
+
         this.getServer().getPluginManager().registerEvents(this, this);
         this.saveDefaultConfig(); // creates a config.yml if it does not exist
 
