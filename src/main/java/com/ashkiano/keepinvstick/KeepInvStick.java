@@ -40,6 +40,9 @@ public class KeepInvStick extends JavaPlugin implements Listener {
         specialItem.setItemMeta(meta);
 
         permissionNode = this.getConfig().getString("permission-node", "keepinvstick.give");
+
+        this.getLogger().info("Thank you for using the KeepInvStick plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com");
+
     }
 
     @Override
