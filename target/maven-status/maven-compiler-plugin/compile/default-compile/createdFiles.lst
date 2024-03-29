@@ -1,1 +1,14 @@
+com\ashkiano\keepinvstick\Metrics$1.class
+com\ashkiano\keepinvstick\Metrics$AdvancedPie.class
+com\ashkiano\keepinvstick\Metrics$JsonObjectBuilder.class
+com\ashkiano\keepinvstick\Metrics.class
+com\ashkiano\keepinvstick\Metrics$AdvancedBarChart.class
+com\ashkiano\keepinvstick\Metrics$SimpleBarChart.class
+com\ashkiano\keepinvstick\Metrics$MultiLineChart.class
+com\ashkiano\keepinvstick\Metrics$CustomChart.class
+com\ashkiano\keepinvstick\Metrics$SingleLineChart.class
+com\ashkiano\keepinvstick\Metrics$MetricsBase.class
 com\ashkiano\keepinvstick\KeepInvStick.class
+com\ashkiano\keepinvstick\Metrics$DrilldownPie.class
+com\ashkiano\keepinvstick\Metrics$JsonObjectBuilder$JsonObject.class
+com\ashkiano\keepinvstick\Metrics$SimplePie.class
